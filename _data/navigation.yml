@@ -6,8 +6,6 @@
   url: "/services/"
   side: left
   dropdown:
-  - title: "All Services"
-    url: "/services/"
   - title: "SEO"
     url: "/services/seo"
   - title: "Digital Marketing"
