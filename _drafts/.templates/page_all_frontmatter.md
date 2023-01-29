@@ -13,9 +13,9 @@ tags:
 #
 # Styling
 #
-header: no
+header: yes
 header:
-    image_fullwidth:
+    image_fullwidth: yes
     image:
     pattern:
     color:

@@ -77,6 +77,8 @@ exclude:
     - README.md
     - INSTALL.md
     - vendor
+    - _drafts/.templates/
+    - _drafts/.AI-Generated/
 
 
 # The language setting is used in /includes/header.html for html-settings
