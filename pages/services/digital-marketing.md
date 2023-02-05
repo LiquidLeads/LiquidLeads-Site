@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: # "/..."
+permalink: /digital-marketing
 
 title: ""
 subheadline: ""
