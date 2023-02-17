@@ -32,7 +32,7 @@ widget1:
   title: "Contact Information"
   url: ''
   image: 
-  text: '<h3>Phone</h3> (832) 510-7123<br /> <h3>Email</h3> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li>' # HTML Code
+  text: '<h3>Phone</h3> (832) 510-7123<br /> <h3>Email</h3> <ul> <li>info@liquidleads.us</li> <li>service@liquidleads.us</li></li> <li>support@liquidleads.us</li>' # HTML Code
 
 widget2:
   title: "Find us on Social Media"
