@@ -25,7 +25,7 @@ widget3:
   title: "Contact"
   url: '/contact'
   image: contact-widget.jpeg
-  text: '<h4>Phone</h4> (713) 491-4415<br /> <h4>Email</h4> <ul> <li>info@technvsolutions.com</li> <li>service@technvsolutions.com</li> <li>repairs@technvsolutions.com</li> </ul>'
+  text: '<h3>Phone</h3> (832) 510-7123<br /> <h3>Email</h3> <ul> <li>info@liquidleads.us</li> <li>service@liquidleads.us</li></li> <li>support@liquidleads.us</li>'
 #
 # Use the call for action to show a button on the frontpage
 #
