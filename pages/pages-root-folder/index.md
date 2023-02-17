@@ -39,7 +39,7 @@ widget3:
 callforaction:
   url: https://calendly.com/mayowa-liquidleads/demo
   text: Schedule A Demo Call Now
-  style: alert
+  style: blue
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
