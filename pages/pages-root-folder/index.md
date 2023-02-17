@@ -38,7 +38,7 @@ widget3:
 #
 callforaction:
   url: https://calendly.com/mayowa-liquidleads/demo
-  text: Schedule A Demo Call Now
+  text: Schedule A Free Call Now
   style: blue
 permalink: /index.html
 #
