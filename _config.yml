@@ -11,7 +11,7 @@
 title: 'Liquid Leads'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: #maybe add something later
+#slogan: ''
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: 'Marketing Solutions.'
@@ -21,7 +21,7 @@ credits: '<p>Created with &hearts; by <a href="http://phlow.de/">Phlow</a> with 
 
 # Main author of the website
 # See > authors.yml
-author: phlow
+author: PatriotsForLife
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
