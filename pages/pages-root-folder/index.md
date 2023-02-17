@@ -8,23 +8,23 @@ layout: frontpage
 permalink: /index.html
 
 header:
-  image_fullwidth: 
+  image_fullwidth: index-001.jpeg
 
 
 widget1:
   title: "Our Services"
   url: '/services'
-  image: services-widget.jpeg
+  image: 
   text: 'View Our Services.'
 widget2:
   title: "Who We Are"
   url: '/about'
-  image: about-widget.jpeg
+  image: 
   text: ''
 widget3:
   title: "Contact"
   url: '/contact'
-  image: contact-widget.jpeg
+  image: 
   text: '<h3>Phone</h3> (832) 510-7123<br /> <h3>Email</h3> <ul> <li>info@liquidleads.us</li> <li>service@liquidleads.us</li></li> <li>support@liquidleads.us</li>'
 #
 # Use the call for action to show a button on the frontpage
@@ -39,7 +39,7 @@ widget3:
 callforaction:
   url: https://calendly.com/mayowa-liquidleads/demo
   text: Schedule A Free Call Now
-  style: blue
+  style: alert
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
