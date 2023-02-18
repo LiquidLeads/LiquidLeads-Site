@@ -38,7 +38,7 @@ improve_content: https://github.com/PatriotsForLife/Liquid-Leads
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://github.com/PatriotsForLife/Liquid-Leads/images/'
+urlimg: 'C:\Users/NewMayoAyo\Documents/_Dev/projects/Personal/Liquid Leads/Liquid-Leads/images/stock'
 
 
 # Logo size is 600x80 pixels
