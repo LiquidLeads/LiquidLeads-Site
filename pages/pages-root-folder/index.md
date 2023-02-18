@@ -40,7 +40,7 @@ callforaction:
   url: https://calendly.com/mayowa-liquidleads/demo
   text: Schedule A Free Call Now
   style: alert info
-permalink: /index.html
+permalink: /home
 #
 # This is a nasty hack to make the navigation highlight
 # this page as active in the topbar navigation
