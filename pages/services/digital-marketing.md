@@ -33,9 +33,10 @@ This is why enlisting the help of professionals who have the necessary tools and
 <summary><h3 style="display:inline">What does <a href="URL">Digital Marketing</a> involve?</h3></summary>
 
 
-- Ad Creation/Optimization
-- Social Media Management
+ - Ad Creation/Optimization <!--- Add page -->
+- Social Media Management <!--- Add page -->
 - <a  href="https://patriotsforlife.github.io/Liquid-Leads//Liquid-Leads/services/seo">Search *Engine Optimization*</a>
 - Email Marketing
 
 </details>
+
