@@ -43,3 +43,4 @@ widget2:
 <!-- 
 https://simpleicons.org/icons/googlemaps.svg -->
 
+<!-- <a id="Map Icon" <img id="Map Icon" src="https://simpleicons.org/icons/googlemaps.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </> <a id="Map Location" href="Houston, Texas" style="position: relative;"> </a> -->
