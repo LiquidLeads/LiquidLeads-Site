@@ -30,13 +30,15 @@ Tapping into the wide range of varying audiences through the utilization of soci
 This is why enlisting the help of professionals who have the necessary tools and expertise to boost your current digital marketing strategy is key to establishing an online presence and growing a strong business.
 
 <details>
-<summary><h3 style="display:inline">What does <a href="URL">Digital Marketing</a> involve?</h3></summary>
+<summary><h3 style="display:inline">What does Digital Marketing involve?</h3></summary>
 
 
- - Ad Creation/Optimization <!--- Add page -->
-- Social Media Management <!--- Add page -->
+ - Ad Creation/Optimization <!--- Add page/create section within page-->
+- Social Media Management <!--- Add page/create section within page -->
 - <a  href="https://patriotsforlife.github.io/Liquid-Leads//Liquid-Leads/services/seo">Search *Engine Optimization*</a>
 - Email Marketing
+- Influencer marketing
 
 </details>
 
+<!--- write blogs about email marketing and influencer marketing -->
