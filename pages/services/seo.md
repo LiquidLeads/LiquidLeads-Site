@@ -10,7 +10,7 @@ tags:
 header: yes
 header:
     image_fullwidth: yes
-    image: seo-001.jpeg
+    # image: seo-001.jpeg
     pattern: # "cover"
     color: # "hsla(0, 0%, 10%, 1.0)"
     background-color: "hsla(43, 100%, 100%, 1.0)"
