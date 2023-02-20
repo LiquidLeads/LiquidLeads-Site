@@ -21,7 +21,7 @@ tags:
 homepage: false
 ---
 
-# Why Is It Important?
+# Digital Marketing
 
 Digital marketing is an indispensable component of any modern business strategy, with a large portion of the population relying solely on the internet for their source of information and entertainment making it essential for businesses to have a strong online presence.
 
@@ -49,3 +49,6 @@ Whether you are embarking on a new ad campaign or you want to enhance a current 
 <li> Booked Appointments
 <li> Increased Revenue
 <!--- write blogs about email marketing and influencer marketing -->
+
+## Our Process
+<!--- revolving circle or "water cycle" type diagram showing the process. Use "maksymizesolar.com" as reference -->
