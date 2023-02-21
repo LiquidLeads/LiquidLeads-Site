@@ -35,7 +35,7 @@ This is why enlisting the help of professionals who have the necessary tools and
 
  - Ad Creation/Optimization <!--- Add page/create section within page-->
 - Social Media Management <!--- Add page/create section within page -->
-- <a  href="https://patriotsforlife.github.io/Liquid-Leads//Liquid-Leads/services/seo">Search *Engine Optimization*</a>
+- <a  href="Some URL">Search *Engine Optimization*</a>
 - Email Marketing
 - Influencer marketing
 
@@ -52,3 +52,6 @@ Whether you are embarking on a new ad campaign or you want to enhance a current 
 
 ## Our Process
 <!--- revolving circle or "water cycle" type diagram showing the process. Use "maksymizesolar.com" as reference -->
+
+## SEO
+In today's digital age having an online presence is a necessity. Although having a website alone is not adequate, what is the point of a website that no one can find? Search engine optimization(SEO) is required to ensure your website is visible to potential customers or visitors.
