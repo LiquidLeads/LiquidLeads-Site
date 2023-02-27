@@ -20,9 +20,9 @@
 
     #!!===================================
   
-#   dropdown:
+#   * dropdown:
 #   - title: "Header with Full-Width-Image"
-#     url: "/design/header-full-width-image/"
+#   ? url: "/design/header-full-width-image/"
 #   - title: "Header with Image and Pattern"
 #     url: "/design/header-image-pattern/"
 #   - title: "Header with image and color"

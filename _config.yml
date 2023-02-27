@@ -25,12 +25,12 @@ author: PatriotsForLife
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://patriotsforlife.github.io/Liquid-Leads/'
-baseurl: '/'
+url: 'https://patriotsforlife.github.io'
+baseurl: '/Liquid-Leads'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/PatriotsForLife/Liquid-Leads
+improve_content: https://github.com/PatriotsForLife/Liquid-Leads/edit/gh-pages
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -38,7 +38,7 @@ improve_content: https://github.com/PatriotsForLife/Liquid-Leads
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: ''
+urlimg: 'https://patriotsforlife.github.io/Liquid-Leads/images'
 
 
 # Logo size is 600x80 pixels
