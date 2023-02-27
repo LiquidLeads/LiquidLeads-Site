@@ -8,24 +8,24 @@ layout: frontpage
 permalink: /index.html
 
 header:
-  # image_fullwidth: index-001.jpeg
+  image_fullwidth: index-001.jpeg
 
 
 widget1:
   title: "Our Services"
   url: '/services'
-  # image: services-widget-001.jpeg
+  image: services-widget-001.jpeg
   text: 'View Our Services.'
 widget2:
   title: "Who We Are"
   url: '/about'
-  # image: about-widget-001.jpeg
+  image: about-widget-001.jpeg
   text: ''
 widget3:
   title: "Contact Us"
   url: '/contact'
-  # image: contact-widget-001.jpeg
-  text: '<h4>Phone</h4> (832) 510-7123<br /> <h4>Email</h4> <ul> <li>info@liquidleads.us</li><li>support@liquidleads.us</li>'
+  image: contact-widget-001.jpeg
+  text: '<h4>Phone</h4> (832) 510-7123<br /> <h4></h4>Email</h4> <ul> <li>info@liquidleads.us</li><li>support@liquidleads.us</li>'
 #
 # Use the call for action to show a button on the frontpage
 #
