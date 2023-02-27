@@ -6,9 +6,8 @@ title: "Contact"
 subheadline: ""
 
 
-header: yes
 header:
-    image_fullwidth: yes
+    image_fullwidth: 
     image: 
     color: # "hsla(0, 0%, 10%, 1.0)" (text)
     background-color: "hsla(43, 100%, 100%, 1.0)"
