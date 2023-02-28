@@ -1,22 +1,26 @@
----
-layout: page
-permalink: /services/digital-marketing
-title: "Digital Marketing"
-subheadline: " "
+Digital marketing is an indispensable component of any modern business strategy, with a large portion of the population relying solely on the internet for their source of information and entertainment making it essential for businesses to have a strong online presence.
 
-header:
-    image_fullwidth: digital-marketing-001.jpeg
+Tapping into the wide range of varying audiences through the utilization of social media, online advertising, and other online channels is paramount to staying relevant in our digital age. In our digital marketplace businesses that fail to incorporate and prioritize digital marketing risk falling behind their competitors.
 
-sidebar: left
-meta_title: # Enter later
-meta_description: # "Page Description"
-tags:
-  - 
+This is why enlisting the help of professionals who have the necessary tools and expertise to boost your current digital marketing strategy is key to establishing an online presence and growing a strong business.
 
-homepage: false
----
+<details>
+<summary><h3 style="display:inline">What does Digital Marketing involve?</h3></summary>
 
 
+ <li><a  href="Some URL">Ad Creation/Optimization</a></li> <!--- Add page/create section within page-->
+<li>Social Media Management</li> <!--- Add page/create section within page -->
+<li><a  href="Some URL">Search Engine Optimization</a></li>
+<li>Email Marketing</li>
+<li>Influencer marketing</li>
+
+
+
+
+
+<br>
+
+</details>
 
 Digital marketing is an indispensable component of any modern business strategy, with a large portion of the population relying solely on the internet for their source of information and entertainment making it essential for businesses to have a strong online presence.
 
@@ -53,5 +57,3 @@ In today's digital age having an online presence is a necessity that allows you 
 <li> Become visible to the world
 <li>Grow a brand
 <li>Gain a competitive advantage
-
-</details>
