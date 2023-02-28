@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/digital-marketing
-title: "Digital Marketing Services"
+title: "Digital Marketing"
 subheadline: " "
 
 header:
@@ -16,7 +16,7 @@ tags:
 homepage: false
 ---
 
-# Digital Marketing
+
 
 Digital marketing is an indispensable component of any modern business strategy, with a large portion of the population relying solely on the internet for their source of information and entertainment making it essential for businesses to have a strong online presence.
 
