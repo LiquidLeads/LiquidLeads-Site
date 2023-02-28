@@ -28,10 +28,10 @@ This is why enlisting the help of professionals who have the necessary tools and
 <summary><h3 style="display:inline">What does Digital Marketing involve?</h3></summary>
 
 
- - Ad Creation/Optimization <!--- Add page/create section within page-->
-- Social Media Management <!--- Add page/create section within page -->
-- <a  href="Some URL">Search *Engine Optimization*</a>
-- Email Marketing
-- Influencer marketing
+ <li><a  href="Some URL">Ad Creation/Optimization</a></li> <!--- Add page/create section within page-->
+<li>Social Media Management</li> <!--- Add page/create section within page -->
+<li><a  href="Some URL">Search Engine Optimization</a></li>
+<li>Email Marketing</li>
+<li>Influencer marketing</li>
 
 </details>
