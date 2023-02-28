@@ -13,8 +13,6 @@
   url: "/services"
   side: left
   dropdown:
-  - title: "SEO"
-    url: "/services/seo"
   - title: "Digital Marketing"
     url: "/services/digital-marketing"
 
