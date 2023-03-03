@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/digital-marketing
+permalink: /services
 title: "Digital Marketing"
 subheadline: " "
 
