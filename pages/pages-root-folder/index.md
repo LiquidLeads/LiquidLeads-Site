@@ -36,9 +36,10 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
+text: We help pool builders find quality leads
 callforaction:
   url: https://calendly.com/mayowa-liquidleads/demo
-  text: Schedule a free strategy call
+  text: Learn How
   style: alert info
 permalink: /index.html
 #
