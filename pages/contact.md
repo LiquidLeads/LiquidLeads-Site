@@ -28,7 +28,7 @@ widget1:
   title: "Contact Information"
   url: ''
   image: 
-  text: '<h3>Phone</h3> (832) 510-7123<br /> <h3>Email</h3> <ul> <li>info@liquidleads.us</li><li>support@liquidleads.us</li>' # HTML Code
+  text: '<h4>Phone</h4> (832) 510-7123<br /> <h4>Email</h4> <ul> <li>info@liquidleads.us</li><li>support@liquidleads.us</li>' # HTML Code
 
 widget2:
   title: "Find us on Social Media"
