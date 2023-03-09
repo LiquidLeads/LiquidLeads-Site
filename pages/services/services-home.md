@@ -5,7 +5,7 @@ permalink: #
 title: "Services"
 subheadline: ""
 
-header:
+header: yes
     image_fullwidth: 
     
 sidebar: left
