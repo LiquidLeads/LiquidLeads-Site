@@ -9,7 +9,10 @@ permalink: /index.html
 
 header:
   image_fullwidth: index-001.jpeg
-
+text: We make marketing for pool builders and contractors easy.
+callforaction:
+  url: https://calendly.com/mayowa-liquidleads/demo
+  text: Learn How
 
 widget1:
   title: "Our Services"
@@ -36,10 +39,8 @@ widget3:
 # to use the main color or success, alert or secondary.
 # To change colors see sass/_01_settings_colors.scss
 #
-text: We help pool builders find quality leads
-callforaction:
-  url: https://calendly.com/mayowa-liquidleads/demo
-  text: Learn How
+
+
   style: alert info
 permalink: /index.html
 #
