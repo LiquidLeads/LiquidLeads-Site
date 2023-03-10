@@ -37,14 +37,16 @@ This is why enlisting the help of professionals who have the necessary tools and
 
 ## Ad Creation and Optimization
 
-Whether you are embarking on a new ad campaign or you want to enhance a current campaign. Our team will use their extensive knowledge in online advertising to make sure your ads get more clicks, impressions, and higher conversion rates, allowing you to reach your ultimate goal of getting more customers. Most agencies like to charge expensive retainers whether they bring you new customers or not. we are different, we conduct ad campaigns that just don't produce leads but give rise to more appointments. Don't waste your resources on inferior ads. Let us bring you:
+Whether you are embarking on a new ad campaign or you want to enhance a current campaign. Our team will use their extensive knowledge in online advertising to make sure your ads get more clicks, impressions, and higher conversion rates, allowing you to reach your ultimate goal of getting more customers. Most agencies like to charge expensive retainers whether they bring you new customers or not. we are different, we conduct ad campaigns that just don't produce leads but give rise to more appointments. Don't waste your resources on inferior ads. Let us bring you: 
 <li> Targetted Ads
 <li> Quality Leads
 <li> Booked Appointments
 <li> Increased Revenue
+
 <!--- write blogs about email marketing and influencer marketing -->
 
 ## Our Process
+
 <!--- revolving circle or "water cycle" type diagram showing the process. Use "maksymizesolar.com" as reference -->
 
 ## SEO
