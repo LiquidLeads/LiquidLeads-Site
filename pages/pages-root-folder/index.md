@@ -8,11 +8,7 @@ layout: frontpage
 permalink: /index.html
 
 header:
-  image_fullwidth: index-001.jpeg
-text: We make marketing for pool builders and contractors easy.
-callforaction:
-  url: https://calendly.com/mayowa-liquidleads/demo
-  text: Learn How
+  image_fullwidth: "index-001.jpeg"
 
 widget1:
   title: "Our Services"
