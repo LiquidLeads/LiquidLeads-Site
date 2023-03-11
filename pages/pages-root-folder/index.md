@@ -20,7 +20,7 @@ widget2:
   title: "Who We Are"
   url: '/about'
   image: "about-003.jpeg"
-  text: 'At Liquid Leads we are dedicated to delivering more value to our clients than what they pay because understand that is the best way to build a long-lasting relationship.'
+  text: 'At Liquid Leads we are dedicated to delivering high-quality valuable results to our clients because understand that is the best way to build a successful long-lasting relationship.'
 widget3:
   title: "Contact Us"
   url: '/contact'

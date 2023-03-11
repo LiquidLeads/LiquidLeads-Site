@@ -17,7 +17,7 @@ tags:
 homepage: false
 ---
 
-At Liquid Leads we are dedicated to delivering more value to our clients than what they pay because understand that is the best way to build a long-lasting relationship.
+At Liquid Leads we are dedicated to delivering high-quality valuable results to our clients because understand that is the best way to build a successful long-lasting relationship.
 
 We are professionals geared toward providing unique marketing solutions to pool builders and pool contractors. Our team supplies strategies that produce quality leads while also equipping our clients with the skills needed to turn leads into customers.
 
