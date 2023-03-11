@@ -5,13 +5,8 @@ permalink: /about
 title: "About Us"
 subheadline: ""
 
-header: yes
 header:
-    image_fullwidth: yes
-    image: "about-002.jpeg"
-    color: # "hsla(0, 0%, 10%, 1.0)" (text)
-    background-color: "hsla(43, 100%, 100%, 1.0)"
-    title: # "Title Text"
+    image_fullwidth: about-001.jpeg
 
 sidebar: left
 meta_title: # Enter later
