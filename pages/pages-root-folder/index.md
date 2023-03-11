@@ -9,7 +9,7 @@ permalink: /index.html
 
 header:
   image_fullwidth: "index-001.jpeg"
-  subtitle: lkjlj
+  
 
 widget1:
   title: "Our Services"
