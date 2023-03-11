@@ -30,5 +30,4 @@ Our goal is not just to provide leads for our clients, but to give them the tool
      style="position: right"
      />
 
-    <!--- # update
-    # Ask about right image alignment  -->
+    
