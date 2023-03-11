@@ -27,5 +27,5 @@ Our goal is not just to provide leads for our clients, but to give them the tool
      src="../images/about-002.jpeg"
      alt="credit card machine"
      width="80%" height="auto"
-     style="position: /*left|center|right*/"
+     style="position: /right"
      />
