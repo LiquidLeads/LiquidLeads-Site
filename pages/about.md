@@ -31,3 +31,4 @@ Our goal is not just to provide leads for our clients, but to give them the tool
      />
 
      <!-- update -->
+     <!--- Ask about right image alignment -->
