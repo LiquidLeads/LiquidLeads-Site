@@ -43,6 +43,7 @@ This is why enlisting the help of professionals who have the necessary tools and
 ## Ad Creation and Optimization
 
 Whether you are embarking on a new ad campaign or you want to enhance a current campaign. Our team will use their extensive knowledge in online advertising to make sure your ads get more clicks, impressions, and higher conversion rates, allowing you to reach your ultimate goal of getting more customers. Most agencies like to charge expensive retainers whether they bring you new customers or not. we are different, we conduct ad campaigns that just don't produce leads but give rise to more appointments. Don't waste your resources on inferior ads. Let us bring you: 
+
 <li> Targetted Ads
 <li> Quality Leads
 <li> Booked Appointments
@@ -55,6 +56,7 @@ Whether you are embarking on a new ad campaign or you want to enhance a current 
 ## SEO
 
 In today's digital age having an online presence is a necessity that allows you to gain a competitive advantage, but having a website alone is not adequate. What is the point of a website that no one can find? Search engine optimization(SEO) is required to ensure your website is visible to potential customers and visitors. When most people never look beyond the first page for the answer to their question, you must take certain steps to secure your website is in the first place spot. Our staff has the data and skills needed to increase your website's ranking and direct traffic to your business; helping to bring recognition to your brand and making your website stand out in the online world.
+
 <li> Become visible to the world
 <li>Grow a brand
 <li>Gain a competitive advantage
