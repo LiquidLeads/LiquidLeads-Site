@@ -8,7 +8,7 @@ tags:
   - 
 
 header:
-    image_fullwidth: lead-generation-001.jpeg
+    image_fullwidth: "lead-generation-001.jpeg"
 sidebar: left
 meta_title: # Enter later
 meta_description: # "Page Description"
