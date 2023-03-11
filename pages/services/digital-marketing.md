@@ -8,8 +8,8 @@ header:
     image_fullwidth: "digital-marketing-001.jpeg"
 
 sidebar: left
-meta_title: # Enter later
-meta_description: # "Page Description"
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 

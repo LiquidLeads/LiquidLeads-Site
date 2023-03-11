@@ -9,8 +9,8 @@ header:
     image_fullwidth: "about-001.jpeg"
 
 #sidebar: 
-meta_title: # Enter later
-meta_description: # "Page Description"
+#meta_title: # Enter later
+#meta_description: # "Page Description"
 tags:
   - 
 
