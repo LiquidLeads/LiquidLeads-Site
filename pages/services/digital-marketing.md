@@ -27,7 +27,8 @@ This is why enlisting the help of professionals who have the necessary tools and
 
 <!--- revolving circle or "water cycle" type diagram showing the process. Use "maksymizesolar.com" as reference -->
 
-<details>
+
+<details open>
 <summary><h4 style="display:inline">&#9656; What does Digital Marketing involve?</h4></summary>
 
 
