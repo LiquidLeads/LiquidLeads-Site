@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /seo
+permalink: /services/lead-generation
 
-title: "SEO"
+title: "Lead Generation"
 subheadline: ""
 tags:
   - 
