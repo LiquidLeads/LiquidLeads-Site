@@ -25,7 +25,7 @@ author: PatriotsForLife
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://https://site.liquidleads.us'
+url: 'https://site.liquidleads.us'
 baseurl: '/'
 
 # This is for the editing function in _/includes/improve_content
@@ -38,7 +38,7 @@ improve_content: https://github.com/PatriotsForLife/Liquid-Leads/edit/gh-pages
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://https://site.liquidleads.us/images/'
+urlimg: 'https://site.liquidleads.us/images/'
 
 
 # Logo size is 600x80 pixels
