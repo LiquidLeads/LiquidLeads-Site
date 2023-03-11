@@ -53,6 +53,7 @@ Whether you are embarking on a new ad campaign or you want to enhance a current 
 
 
 ## SEO
+
 In today's digital age having an online presence is a necessity that allows you to gain a competitive advantage, but having a website alone is not adequate. What is the point of a website that no one can find? Search engine optimization(SEO) is required to ensure your website is visible to potential customers and visitors. When most people never look beyond the first page for the answer to their question, you must take certain steps to secure your website is in the first place spot. Our staff has the data and skills needed to increase your website's ranking and direct traffic to your business; helping to bring recognition to your brand and making your website stand out in the online world.
 <li> Become visible to the world
 <li>Grow a brand
