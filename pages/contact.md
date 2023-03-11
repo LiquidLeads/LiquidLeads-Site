@@ -17,7 +17,7 @@ tags:
   - 
 
 sidebar: left
-meta_description: # "Page Description"
+#meta_description: # "Page Description"
 
 homepage: false
 
