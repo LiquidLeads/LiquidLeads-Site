@@ -8,7 +8,7 @@ layout: frontpage
 permalink: /index.html
 
 header:
-  image_fullwidth: "index-001.jpeg"
+  image_fullwidth: "index-002.jpeg"
 
 widget1:
   title: "Our Services"
