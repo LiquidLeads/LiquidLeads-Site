@@ -37,6 +37,7 @@ This is why enlisting the help of professionals who have the necessary tools and
 <li><a  href="Some URL">Search Engine Optimization</a></li>
 <li>Email Marketing</li>
 <li>Influencer marketing</li>
+<li>Lead generation</li>
 </details>
 
 ## Ad Creation and Optimization
@@ -56,3 +57,6 @@ In today's digital age having an online presence is a necessity that allows you 
 <li> Become visible to the world
 <li>Grow a brand
 <li>Gain a competitive advantage
+
+
+<!-- -fix why seo can't be seen on page -->
