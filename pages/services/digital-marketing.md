@@ -5,7 +5,7 @@ title: "Digital Marketing"
 subheadline: " "
 
 header:
-    image_fullwidth: digital-marketing-001.jpeg
+    image_fullwidth: "digital-marketing-001.jpeg"
 
 sidebar: left
 meta_title: # Enter later
