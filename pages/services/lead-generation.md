@@ -9,7 +9,7 @@ tags:
 
 header:
     image_fullwidth: "lead-geeneration-001.jpeg"
-sidebar: left
+#sidebar: left
 #meta_title: # Enter later
 #meta_description: # "Page Description"
 tags:
