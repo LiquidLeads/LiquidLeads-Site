@@ -23,9 +23,7 @@ Digital marketing is an indispensable component of any modern business strategy,
 Tapping into the wide range of varying audiences through the utilization of social media, online advertising, and other online channels is paramount to staying relevant in our digital age. In our digital marketplace businesses that fail to incorporate and prioritize digital marketing risk falling behind their competitors.
 
 This is why enlisting the help of professionals who have the necessary tools and expertise to boost your current digital marketing strategy is key to establishing an online presence and growing a strong business.
-## Our Process
 
-<!--- revolving circle or "water cycle" type diagram showing the process. Use "maksymizesolar.com" as reference -->
 
 
 <details open>
