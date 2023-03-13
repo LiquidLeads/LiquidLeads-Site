@@ -24,7 +24,7 @@ Tapping into the wide range of varying audiences through the utilization of soci
 
 This is why enlisting the help of professionals who have the necessary tools and expertise to boost your current digital marketing strategy is key to establishing an online presence and growing a strong business.
 
-<a href="https://calendly.com/mayowa-liquidleads/demo"><button>Schedule Free Call Now</button>
+<a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1">Schedule Free Call Now</button>
 
 <details open>
 <summary><h4 style="display:inline">&#9656; What does Digital Marketing involve?</h4></summary>
@@ -46,6 +46,7 @@ Whether you are embarking on a new ad campaign or you want to enhance a current 
 
 In today's digital age having an online presence is a necessity that allows you to gain a competitive advantage, but having a website alone is not adequate. What is the point of a website that no one can find? Search engine optimization(SEO) is required to ensure your website is visible to potential customers and visitors. When most people never look beyond the first page for the answer to their question, you must take certain steps to secure your website is in the first place spot. Our staff has the data and skills needed to increase your website's ranking and direct traffic to your business; helping to bring recognition to your brand and making your website stand out in the online world.
 
+<a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta2">Schedule Free Call Now</button>
 
 <!--- write blogs about email marketing and influencer marketing -->
 <!-- -fix why seo can't be seen on page -->
