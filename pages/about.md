@@ -23,8 +23,10 @@ We are professionals geared toward providing unique marketing solutions to pool 
 
 Our goal is not just to provide leads for our clients, but to give them the tools and skills necessary to acquire new customers and facilitate growth, enabling our clients to not just succeed, but to excel.
 
+<a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1">I want my business to excel!</button>
+
 <img id="about-002"
-     src="../images/about-002.jpeg"
+     src="../images/about-002-copy.jpeg"
      alt="credit card machine"
      width="80%" height="auto"
      style="position: /* right */"
