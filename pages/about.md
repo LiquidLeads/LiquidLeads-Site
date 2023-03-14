@@ -30,7 +30,6 @@ Our goal is not just to provide leads for our clients, but to give them the tool
      alt="credit card machine"
      width="80%" height="auto"
      style="position: /*left|center|right*/"
-"
      />
 
     
