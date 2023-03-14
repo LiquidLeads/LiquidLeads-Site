@@ -29,7 +29,7 @@ Our goal is not just to provide leads for our clients, but to give them the tool
   <img id="about-002"
       src="../images/about-002-copy.jpeg"
       alt="credit card machine"
-      width="80%" height="auto"
+      width="100%" height="auto"
       />
 </div>
     
