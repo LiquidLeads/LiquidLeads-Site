@@ -26,7 +26,7 @@ Our goal is not just to provide leads for our clients, but to give them the tool
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1">I want my business to excel!</button>
 
 <img id="about-002"
-     src="../images/about-002copy.jpeg"
+     src="../images/about-002-copy.jpeg"
      alt="credit card machine"
      width="80%" height="auto"
      style="position: /* right */"
