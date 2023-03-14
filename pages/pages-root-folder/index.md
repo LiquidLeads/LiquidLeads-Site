@@ -46,5 +46,5 @@ permalink: /index.html
 #
 homepage: true
 ---
-
+<p>No misleading promises. We help Pool Builders Grow</p>
 
