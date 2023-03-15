@@ -14,7 +14,7 @@ header:
 widget1:
   title: "Our Services"
   url: '/services'
-  image: "contact-widget-002.jpeg"
+  image: "services-widget-001.jpeg"
   text: 'View Our Services.'
 widget2:
   title: "Who We Are"
@@ -24,7 +24,7 @@ widget2:
 widget3:
   title: "Contact Us"
   url: '/contact'
-  image: contact-widget-001.jpeg
+  image: contact-widget-002.jpeg
   text: '<h4>Phone</h4> (832) 510-7123<br /> <h4></h4>Email</h4> <ul> <li>info@liquidleads.us</li><li>support@liquidleads.us</li>'
 #
 # Use the call for action to show a button on the frontpage
