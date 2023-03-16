@@ -8,7 +8,7 @@ subheadline: ""
 header: yes
     image_fullwidth: 
     
-sidebar: left
+sidebar: false
 meta_title: # Enter later
 meta_description: # "Page Description"
 tags:
