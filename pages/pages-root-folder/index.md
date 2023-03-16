@@ -6,7 +6,7 @@
 #
 layout: frontpage
 permalink: /index.html
-tawkto: true
+
 header:
   image_fullwidth: "index-001.jpeg" 
 
@@ -45,6 +45,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
+tawkto: true
 ---
 <!-- <p>No misleading promises. We help Pool Builders Grow</p>
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button background-color: #4CAF50; /* Green */ id="digital-marketing-cta1" >Learn How</button> -->

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about
-tawkto: true
+
 title: "About Us"
 subheadline: ""
 
@@ -15,6 +15,7 @@ tags:
   - 
 
 homepage: false
+tawkto: true
 ---
 
 At Liquid Leads we are dedicated to delivering high-quality valuable results to our clients because understand that is the best way to build a successful long-lasting relationship.
