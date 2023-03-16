@@ -6,7 +6,7 @@
 #
 layout: frontpage
 permalink: /index.html
-
+tawkto: true
 header:
   image_fullwidth: "index-001.jpeg" 
 
