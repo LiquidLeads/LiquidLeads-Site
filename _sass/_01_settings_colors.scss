@@ -78,10 +78,10 @@ $topbar-bg          : $topbar-bg-color;
 
 $topbar-dropdown-toggle-color: $ci-6;
 
-$topbar-link-color  : hsl(0, 0%, 0%);
-$topbar-link-color-hover: hsl(0, 0%, 0%);
-$topbar-link-color-active: hsl(0, 0%, 0%);
-$topbar-link-color-active-hover: hsl(0, 0%, 0%);
+$topbar-link-color  : hsl(0, 0%, 100%);
+$topbar-link-color-hover: hsl(0, 0%, 100%);
+$topbar-link-color-active: hsl(0, 0%, 100%);
+$topbar-link-color-active-hover: hsl(0, 0%, 100%);
 
 $topbar-dropdown-label-color: $ci-2;
 $topbar-dropdown-link-bg-hover: $ci-6;
@@ -92,13 +92,13 @@ $topbar-link-bg-active-hover: $ci-2;
 
 
 $topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
-$topbar-dropdown-link-color: hsl(0, 0%, 0%);
+$topbar-dropdown-link-color: hsl(0, 0%, 100%);
 $topbar-dropdown-link-bg: $ci-2;
 
 $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
-$topbar-menu-link-color: hsl(0, 0%, 0%);
-$topbar-menu-icon-color: hsl(0, 0%, 0%);
+$topbar-menu-link-color: hsl(0, 0%, 100%);
+$topbar-menu-icon-color: hsl(0, 0%, 100%);
 $topbar-menu-link-color-toggled: $ci-6;
 $topbar-menu-icon-color-toggled: $ci-6;
 
@@ -107,12 +107,12 @@ $topbar-menu-icon-color-toggled: $ci-6;
 /* Footer
 ------------------------------------------------------------------- */
 
-$footer-bg          : $grey-8;
+$footer-bg          : $grey-12;
 $footer-color       : hsl(0, 0%, 100%);
 $footer-link-color  : $ci-6;
 
 
-$subfooter-bg       : $grey-13;
+$subfooter-bg       : $grey-15;
 $subfooter-color    : $grey-8;
 $subfooter-link-color: $grey-8;
 
