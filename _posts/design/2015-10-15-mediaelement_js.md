@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 #
 # Content
@@ -70,4 +70,4 @@ All possible functions and how to use *mediaelement.js* is well-documented on th
  [7]: #
  [8]: #
  [9]: #
- [10]: #
+ [10]: # -->
