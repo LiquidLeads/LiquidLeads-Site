@@ -1,15 +1,15 @@
 - title: Home
   url: "/"
-  side: left
+  side: right
 - title: Contact
   url: "/contact"
-  side: left
+  side: right
 - title: About
   url: "/about"
-  side: left
+  side: right
 - title: "Services"
   url: ""
-  side: left
+  side: right
   dropdown:
     - title: "Digital Marketing"
       url: "/services/digital-marketing"
