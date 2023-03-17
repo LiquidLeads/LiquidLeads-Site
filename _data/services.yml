@@ -1,9 +1,22 @@
-- menu_name: "Pages"
+#- menu_name: "Pages"
+
+- name: "Home"
+  url: "/index.html"
+  title: "Home"
+
+- name: "About"
+  url: "/about"
+  title: "About"
 
 - name: "Contact"
-  url: "/contact/"
+  url: "/contact"
   title: "Contact"
 
+- name: "Services"
+  url: "/services"
+  title: "Services"
+
+#-make sure "/services" goes somewhere
 # - name: "RSS"
 #   url: "/feed.xml"
 #   title: "Subscribe to RSS Feed"
