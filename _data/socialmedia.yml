@@ -8,17 +8,17 @@
  - name: Facebook
    url: https://www.facebook.com/LiquidLeadsmarketing
    class: icon-facebook
-   title: ""
+   title: "Facebook"
 
  - name: Instagram
    url: https://www.instagram.com/liquid_leads/
    class: icon-instagram
-   title: ""
+   title: "Instagram"
 
 - name: Twitter
   url: https://twitter.com/LiquidLeads_
   class: icon-twitter
-  title: ""
+  title: "Twitter"
 
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
