@@ -32,6 +32,11 @@
 #   class: icon-twitter
 #   title: "Twitter"
 
+
+# - There was an issue with the identation of the twitter icon above.
+
+
+
 # - name: Mixcloud
 #   url: http://www.mixcloud.com/phlow/
 #   class: icon-cloud
