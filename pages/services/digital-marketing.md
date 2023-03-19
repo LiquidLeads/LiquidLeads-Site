@@ -26,7 +26,7 @@ Tapping into the wide range of varying audiences through the utilization of soci
 
 This is why enlisting the help of professionals who have the necessary tools and expertise to boost your current digital marketing strategy is key to establishing an online presence and growing a strong business.
 
-<a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1">Schedule A Free Strategy Call</button>
+<a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1" style="border-radius: 10px">Schedule A Free Strategy Call</button>
 
 
 <details style="cursor:pointer">
