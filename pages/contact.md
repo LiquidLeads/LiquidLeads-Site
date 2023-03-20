@@ -36,6 +36,7 @@ widget2:
   image: 
   text: '<a id="<a id="Facebook Icon Link" href="https://www.facebook.com/TechnovineSolutions"> <img id="Facebook Icon" src="https://simpleicons.org/icons/facebook.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a> <a id="Facebook Link" href="https://www.facebook.com/LiquidLeadsmarketing" style="position: relative;"> Facebook </a> <br /><br /> <a id="Instagram Icon Link" href="https://www.instagram.com/Liquid_Leads/"> <img id="Instagram Icon" src="https://simpleicons.org/icons/instagram.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a> <a id="Instagram Link" href="https://www.instagram.com/Liquid_Leads/" style="position: relative;"> Instagram </a> <br /><br /> <a id="Twitter Icon Link" href="https://twitter.com/Liquid_Leads_"> <img id="Twitter Icon" src="https://simpleicons.org/icons/twitter.svg" alt="Mouse-Over Text" width="30px" height="auto" /> </a> <a id="Twitter Link" href="https://twitter.com/LiquidLeads_" style="position: relative;"> Twitter </a> <br />' # HTML Code
 ---
+<a href="https://calendly.com/mayowa-liquidleads/demo"><button id="lead-generation-cta1" style="border-radius: 12px" style="positon: center">Schedule A Free Strategy Call</button>
 <!-- 
 https://simpleicons.org/icons/googlemaps.svg -->
 
