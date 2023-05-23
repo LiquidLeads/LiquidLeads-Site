@@ -29,16 +29,17 @@ This is why enlisting the help of professionals who have the necessary tools and
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1" style="border-radius: 12px">Schedule A Free Strategy Call</button>
 
 
-<details style="cursor:pointer">
-<summary><h4 style="display:inline">&#9656; What does Digital Marketing involve?</h4></summary>
+<details id="test" class="dropdown_body" open>
+    <summary class="dropdown-title"><h3 style="display: inline"><span class="custom-marker">▸</span> What does <a href="URL">Digital Marketing</a> involve?</h3></summary>
 
 
- <li><a  href="Some URL">Ad Creation/Optimization</a></li> <!--- Add page/create section within page-->
+ <li>Ad Creation/Optimization</li> <!--- Add page/create section within page-->
 <li>Social Media Management</li> <!--- Add page/create section within page -->
-<li><a  href="Some URL">Search Engine Optimization</a></li>
+<li>Search Engine Optimization</li>
+<li><a  href="/services/lead-generation">Lead Generation</a></li>
 <li>Email Marketing</li>
-<li>Influencer marketing</li>
-<li>Lead generation</li>
+<li>And much more!</li>
+
 </details>
 
 ## Ad Creation and Optimization
