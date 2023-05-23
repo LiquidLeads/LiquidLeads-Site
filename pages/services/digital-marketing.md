@@ -33,7 +33,7 @@ This is why enlisting the help of professionals who have the necessary tools and
     <summary class="dropdown-title"><h3 style="display: inline"><span class="custom-marker">▸</span> What does <a href="URL">Digital Marketing</a> involve?</h3></summary>
 
 
- <li>Ad Creation/Optimization</li> <!--- Add page/create section within page-->
+ <li>Lead Generation</li> <!--- Add page/create section within page-->
 <li>Social Media Management</li> <!--- Add page/create section within page -->
 <li>Search Engine Optimization</li>
 <li><a  href="/services/lead-generation">Lead Generation</a></li>
@@ -42,13 +42,9 @@ This is why enlisting the help of professionals who have the necessary tools and
 
 </details>
 
-## Ad Creation and Optimization
+ 
 
-Whether you are embarking on a new ad campaign or you want to enhance a current campaign. Our team will use their extensive knowledge in online advertising to make sure your ads get more clicks, impressions, and higher conversion rates, allowing you to reach your ultimate goal of getting more customers. Most agencies like to charge expensive retainers whether they bring you new customers or not. we are different, we conduct ad campaigns that just don't produce leads but give rise to more appointments. Don't waste your resources on inferior ads. 
 
-## SEO
-
-In today's digital age having an online presence is a necessity that allows you to gain a competitive advantage, but having a website alone is not adequate. What is the point of a website that no one can find? Search engine optimization(SEO) is required to ensure your website is visible to potential customers and visitors. When most people never look beyond the first page for the answer to their question, you must take certain steps to secure your website is in the first place spot. Our staff has the data and skills needed to increase your website's ranking and direct traffic to your business; helping to bring recognition to your brand and making your website stand out in the online world.
 
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta2" style="border-radius: 12px">Schedule A FREE Strategy Call</button>
 
