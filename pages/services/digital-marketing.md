@@ -35,7 +35,7 @@ This is why enlisting the help of professionals who have the necessary tools and
 
  <li>Lead Generation</li> <!--- Add page/create section within page-->
 <li>Social Media Management</li> <!--- Add page/create section within page -->
-<li>Search Engine Optimization</li>
+<li><a  href="/services/seo">Search Engine Optimization</a></li>
 <li><a  href="/services/lead-generation">Lead Generation</a></li>
 <li>Email Marketing</li>
 <li>And much more!</li>
