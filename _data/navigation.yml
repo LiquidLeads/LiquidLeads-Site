@@ -13,8 +13,8 @@
   dropdown:
     - title: "Digital Marketing"
       url: "/services/digital-marketing"
-    - title: "SEO"
-      url: /services/seo
+    # - title: "SEO"
+    #   url: /services/seo
     - title: "Lead Generation"
       url: /services/lead-generation
     # - title: "Employee Generation"
