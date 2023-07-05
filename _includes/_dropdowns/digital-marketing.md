@@ -1,0 +1,14 @@
+<head>
+<link href="../../_sass/.testing/css/dropdown-body.css">
+</head>
+<body>
+<details id="test" class="dropdown_body" open>
+	<summary class="dropdown-title"><h3 style="display: inline"><span class="custom-marker">▸</span> What does Digital marketing involve?</h3></summary>
+
+	<li>Lead Generation</li> <!--- Add page/create section within page-->
+<li>Social Media Management</li> <!--- Add page/create section within page -->
+<li><a  href="/services/seo">Search Engine Optimization</a></li>
+<li><a  href="/services/lead-generation">Lead Generation</a></li>
+<li>Email Marketing</li>
+<li>And much more!</li>
+</body>
