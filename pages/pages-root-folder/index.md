@@ -13,7 +13,7 @@ header:
 
 widget1:
   title: "Our Services"
-  url: '/services'
+  url: '/services/digital-marketing'
   image: "services-widget-001.jpeg"
   text: 'View Our Services.'
 widget2:
