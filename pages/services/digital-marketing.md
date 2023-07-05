@@ -28,11 +28,6 @@ This is why enlisting the help of professionals who have the necessary tools and
 
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1" style="border-radius: 12px">Schedule A Free Strategy Call</button>
 
-
-<details id="test" class="dropdown_body" open>
-    <summary class="dropdown-title"><h3 style="display: inline"><span class="custom-marker">▸</span> What does <a href="URL">Digital Marketing</a> involve?</h3></summary>
-
-
  {% include _dropdowns/digital-marketing.html %}
 
  
