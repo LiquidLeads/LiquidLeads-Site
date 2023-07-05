@@ -28,11 +28,9 @@ This is why enlisting the help of professionals who have the necessary tools and
 
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta1" style="border-radius: 12px">Schedule A Free Strategy Call</button>
 
- <!-- {% include _dropdowns/digital-marketing.html %} -->
+
 
  
-
-
 
 <!-- <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="digital-marketing-cta2" style="border-radius: 12px">Schedule A FREE Strategy Call</button> -->
 
