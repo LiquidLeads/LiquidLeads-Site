@@ -33,14 +33,7 @@ This is why enlisting the help of professionals who have the necessary tools and
     <summary class="dropdown-title"><h3 style="display: inline"><span class="custom-marker">▸</span> What does <a href="URL">Digital Marketing</a> involve?</h3></summary>
 
 
- <li>Lead Generation</li> <!--- Add page/create section within page-->
-<li>Social Media Management</li> <!--- Add page/create section within page -->
-<li><a  href="/services/seo">Search Engine Optimization</a></li>
-<li><a  href="/services/lead-generation">Lead Generation</a></li>
-<li>Email Marketing</li>
-<li>And much more!</li>
-
-</details>
+ {% include _dropdowns/digital-marketing.html %}
 
  
 
