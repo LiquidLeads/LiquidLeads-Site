@@ -27,7 +27,7 @@ Having the best service fulfillment or offer doesn't matter without having the r
 
 <a href="https://calendly.com/mayowa-liquidleads/demo"><button id="lead-generation-cta" style="border-radius: 12px">Schedule A Free Strategy Call</button>
 
-## Our Process
+<!-- ## Our Process -->
 
 <!--- revolving circle or "water cycle" type diagram showing the process. Use "maksymizesolar.com" as reference -->
 
